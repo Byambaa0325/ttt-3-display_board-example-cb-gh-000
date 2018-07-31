@@ -1,9 +1,9 @@
 # Define a method display_board that prints a 3x3 Tic Tac Toe Board
 def printRow
-  print "   |   |   "
+  puts "   |   |   "
 end
 def printRowSeperator
-  print "-----------"
+  puts "-----------"
 end
 def display_board
   printRow
