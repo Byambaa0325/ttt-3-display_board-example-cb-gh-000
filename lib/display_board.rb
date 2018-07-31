@@ -12,3 +12,5 @@ def display_board
   printRowSeperator
   printRow
 end
+
+display_board
